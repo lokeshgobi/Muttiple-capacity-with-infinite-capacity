@@ -18,6 +18,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 <img width="1597" height="857" alt="image" src="https://github.com/user-attachments/assets/ff49e977-3cb4-41a2-aa2b-74175e6a59cc" />
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/67e723ef-1d57-41db-9ce0-96b5ef96fbf7" />
+
 ## Program
 ```
 import math
